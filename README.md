@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)]()
 
-<img src="animation.gif"/>
+<img src="animation.gif"/> 
 
 ## Usage
 
